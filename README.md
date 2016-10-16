@@ -8,3 +8,4 @@ https://www.khanacademy.org/math/linear-algebra/eola-topic
 ## Graph Lab SFrame  ==  Better tha sci and pandas
 * https://turi.com/download/install-graphlab-create.html?email=mohittalniya%40gmail.com&key=ADC9-23CE-4B82-B2D5-66C3-619B-9042-31D9
 ## iPython Note book Python Wiki
+* https://turi.com/learn/userguide/
