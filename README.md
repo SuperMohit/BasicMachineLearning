@@ -4,6 +4,11 @@ http://blog.echen.me/2011/03/14/laymans-introduction-to-random-forests/
 #Basic Linear Algebra
 https://www.khanacademy.org/math/linear-algebra/eola-topic
 
+# Install pip
+sudo apt-get install python-pip
+pip install SFrame
+
+
 # Coursera
 ## Graph Lab SFrame  ==  Better tha sci and pandas
 
