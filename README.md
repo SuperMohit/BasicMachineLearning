@@ -17,3 +17,7 @@ pip install SFrame
 ## iPython Note book Python Wiki
 
 * https://turi.com/learn/userguide/
+
+Linear Classifier:
+1. Decision boundary, Hyperplane, Linear Classifier, Feature extraction, training data
+
