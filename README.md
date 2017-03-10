@@ -21,5 +21,5 @@ pip install SFrame
 Linear Classifier:
 1. Decision boundary, Hyperplane, Linear Classifier, Feature extraction, training data
 2. Conditional Probability, Link function, Generalized link model
-3. Sigmoid : 1/1+e^-score
-
+3. Sigmoid : 1/1+e^-score used in Logistic Regression model
+4. Likelihood : Gradient ascent model
