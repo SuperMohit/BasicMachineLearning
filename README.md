@@ -23,3 +23,4 @@ Linear Classifier:
 2. Conditional Probability, Link function, Generalized link model
 3. Sigmoid : 1/1+e^-score used in Logistic Regression model
 4. Likelihood : Gradient ascent model
+5. Categorical values
