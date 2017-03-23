@@ -24,3 +24,5 @@ Linear Classifier:
 3. Sigmoid : 1/1+e^-score used in Logistic Regression model
 4. Likelihood : Gradient ascent model
 5. Categorical values
+6. Batch Gradient descent : To minimize distance between Hypothesis arrived and Output cost function.
+7. Multivariate linear regression. 
